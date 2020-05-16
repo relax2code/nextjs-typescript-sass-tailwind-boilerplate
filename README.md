@@ -1,4 +1,4 @@
-# NEXTJS + TYPESCRIPT + SASS Boilerplate
+# NEXTJS + TYPESCRIPT + SASS + TAILWIND CSS Boilerplate
 
 
 ## Getting Started
